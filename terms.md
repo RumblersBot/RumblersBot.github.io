@@ -12,7 +12,7 @@ An updated version of this Agreement will be effective immediately upon the post
 
 <h2>Acceptance of these terms</h2>
 
-You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Website and Services. This terms and conditions policy was created with the help of WebsitePolicies.
+You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Website and Services.
 
 <h2>Contacting us</h2>
 
