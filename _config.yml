@@ -3,7 +3,7 @@ description: "Homepage of the Trace bot for Discord."
 keyword: "Trace, Discord, Bot, Homepage"
 homepage: "https://rumbersbot.github.io"
 github_repo: "https://github.com/RumblersBot/RumblersBot.github.io"
-baseurl: '/'
+
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
