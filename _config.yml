@@ -8,10 +8,5 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-navigation:
-- text: Home
-  internal: false
-  url: ./
-
 theme: jekyll-theme-modernist
 show_downloads: false
