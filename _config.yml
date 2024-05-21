@@ -1,0 +1,8 @@
+title: Trace Homepage
+description: "Homepage of the Trace bot for Discord."
+keyword: "Trace, Discord, Bot, Homepage"
+homepage: "https://rumbersbot.github.io"
+github_repo: "https://github.com/RumblersBot/RumblersBot.github.io"
+
+theme: jekyll-theme-modernist
+show_downloads: false
