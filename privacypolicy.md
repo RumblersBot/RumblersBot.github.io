@@ -23,6 +23,6 @@ Guild data is used for our settings.
 
 We do not show, share or sell any of our data to anyone else.
 
-This Privacy Policy is subject to occasional revision, and we may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. If you have questions and/or require more information, do not hesitate to contact us on Discord (https://discord.gg/rumblers)
+This Privacy Policy is subject to occasional revision, and we may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. If you have questions and/or require more information, do not hesitate to contact us on Discord [The Rumblers](https://discord.gg/rumblers)
 
 This document was last updated on May 21, 2024

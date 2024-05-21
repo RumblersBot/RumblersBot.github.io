@@ -17,4 +17,4 @@ You acknowledge that you have read this Agreement and agree to all its terms and
 <h2>Contacting us</h2>
 
 If you have any questions, concerns, or complaints regarding this Agreement, we encourage you to contact us on The Rumblers discord:
-(https://discord.gg/rumblers")
+[The Rumblers](https://discord.gg/rumblers")
