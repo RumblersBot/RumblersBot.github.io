@@ -4,9 +4,5 @@ keyword: "Trace, Discord, Bot, Homepage"
 homepage: "https://rumbersbot.github.io"
 github_repo: "https://github.com/RumblersBot/RumblersBot.github.io"
 
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
 theme: jekyll-theme-modernist
 show_downloads: false
